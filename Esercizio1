@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>Esercizio1</title>
+  </head>
+  <body>
+   <p>Elenco puntato </p>
+   <ul>
+     <li>Primo</li>
+     <li>Secondo</li>
+     <li>Terzo</li>
+   </ul>
